@@ -135,38 +135,6 @@ Mo Tu We Th Fr Sa Su   Mo Tu We Th Fr Sa Su   Mo Tu We Th Fr Sa Su
 
 ---
 
-## 贡献
-
-欢迎对 `cld` 提出建议或改进代码！你可以通过以下步骤贡献：
-
-1. Fork 本仓库。
-2. 创建你的分支：
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. 提交更改：
-   ```bash
-   git commit -m "增加功能/修复问题描述"
-   ```
-4. 推送到分支：
-   ```bash
-   git push origin feature-branch
-   ```
-5. 创建 Pull Request。
-
----
-
-## 作者
-
-你的名字  
-GitHub: [你的 GitHub 地址]
-
----
-
 ## 许可证
 
 MIT License. 请自由使用和分发。
-
----
-
-将这个 `README.md` 文件添加到 GitHub 仓库的根目录中，能使你的项目更清晰易懂。如果需要额外的说明或修改，请告诉我！ 😊
